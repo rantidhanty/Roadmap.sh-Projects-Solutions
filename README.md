@@ -6,7 +6,6 @@ Repository ini berisi solusi dari berbagai proyek yang ada di **roadmap.sh** bag
 
 ## 📌 Daftar Proyek
 - **Single Page CV** - [Lihat Proyek](./Frontend/Single-Page-CV)
-- (Tambahkan proyek lainnya seiring perkembangan)
 
 ## 🚀 Teknologi yang Digunakan
 - HTML5
