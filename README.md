@@ -5,14 +5,17 @@ Repository ini berisi solusi dari berbagai proyek yang ada di **roadmap.sh** bag
 🔗 **Referensi Proyek:** [Roadmap.sh Frontend Projects](https://roadmap.sh/frontend/projects)
 
 ## 📌 Daftar Proyek
-- **Single Page CV** - [Lihat Proyek](./Frontend/Single-Page-CV)
+
+- **Single Page CV** - [Lihat Project](https://roadmap.sh/projects/single-page-cv) - [Lihat Solutions](./Frontend/Single-Page-CV)
 
 ## 🚀 Teknologi yang Digunakan
+
 - HTML5
 - CSS3
 - JavaScript (untuk proyek yang memerlukannya)
 
 ## 🔧 Cara Menjalankan
+
 1. Clone repository ini:
    ```sh
    git clone https://github.com/rantidhanty/Roadmap.sh-Projects-Solutions.git
@@ -21,5 +24,5 @@ Repository ini berisi solusi dari berbagai proyek yang ada di **roadmap.sh** bag
 3. Buka `index.html` di browser.
 
 ---
-Proyek ini bersifat open-source dan digunakan untuk pembelajaran. Feel free to contribute! 🚀
 
+Proyek ini bersifat open-source dan digunakan untuk pembelajaran. Feel free to contribute! 🚀
